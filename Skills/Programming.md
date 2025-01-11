@@ -5,75 +5,75 @@
   - Modeling
   - Subject domain
   - Algorithm
-  - Syntax 🖐️	used
+  - Syntax: 🖐️ used
   - Semantics
   - Abstraction
   - Paradigm
   - Programm
   - Programming paradigm
-  - Programming language 🖐️	used
+  - Programming language: 🖐️ used
   - Contract
-  - Module 🖐️	used
-  - Library 🖐️	used
+  - Module: 🖐️ used
+  - Library: 🖐️ used
   - Package
   - Component
-  - Framework 👂	heard
+  - Framework: 👂 heard
   - Platform
   - Source code
   - Object code
   - Machine code
   - Microcode
-  - Software engineering 👂	heard
+  - Software engineering: 👂 heard
   - Decomposition
   - Control flow
   - Data flow
-  - Code reuse 🖐️	used
+  - Code reuse: 🖐️ used
   - Defensive programming
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value 🖐️	used
-  - Identifier 🖐️	used
-  - Variable 🖐️	used
-  - Constant 🖐️	used
+  - Value: 🖐️ used
+  - Identifier: 🖐️ used
+  - Variable: 🖐️ used
+  - Constant: 🖐️ used
   - Scalar
-  - Literal 🖐️	used
-  - Expression 🖐️	used
+  - Literal: 🖐️ used
+  - Expression: 🖐️ used
   - Heap
-  - Function 🖐️	used
+  - Function: 🖐️ used
   - Procedure
-  - Method 🖐️	used
+  - Method: 🖐️ used
   - Class
   - Prototype
   - Event
   - Type
   - Flag
   - Lexical scope
-  - Code block 🖐️	used
-  - Conditions 🖐️	used
-  - Loops 🖐️	used
-  - Assignment 🖐️	used
+  - Code block: 🖐️ used
+  - Conditions: 🖐️ used
+  - Loops: 🖐️ used
+  - Assignment: 🖐️ used
   - Regular expression
   - Interface
   - Namespaces
   - Call stack
-  - Naming conventions 🖐️	used
-  - Coding conventions 🖐️	used
-  - Camel case 🖐️	used
-  - Snake case 🖐️	used
-  - Kebab case 🎓	known
+  - Naming conventions: 🖐️ used
+  - Coding conventions: 🖐️ used
+  - Camel case: 🖐️ used
+  - Snake case: 🖐️ used
+  - Kebab case: 🎓 known
   - Trailing commas
-  - Return early 🖐️	used
+  - Return early: 🖐️ used
   - Fail-fast
 - Types
-  - Primitive types 🖐️	used
+  - Primitive types: 🖐️ used
   - Reference types
   - Type systems
   - Strong typing
   - Weak typing
   - Duck typing
   - Static typing
-  - Dynamic typing 👂 heard
+  - Dynamic typing: 👂 heard
   - Nominal typing
   - Structural typing
   - Explicit typing
@@ -81,19 +81,19 @@
   - Covariance
   - Contravariance
 - Functions
-  - Signature 🖐️	used
-  - Argument 🖐️	used
-  - Parameter 🖐️	used
+  - Signature: 🖐️ used
+  - Argument: 🖐️ used
+  - Parameter: 🖐️ used
   - Pure function
   - Lambda expression
   - Side effects
-  - Closure 🖐️	used
+  - Closure: 🖐️ used
   - Partial application
   - Currying
   - Higher order
-  - Recursion 👂 heard
+  - Recursion: 👂 heard
   - Tail call optimisation
-  - Callback 🖐️	used
+  - Callback: 🖐️ used
   - Listener
   - Composition
   - Pipe
@@ -105,12 +105,12 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array 🖐️	used
+  - Array: 🖐️ used
   - Structure
   - Record
   - Enum
   - Instance
-  - Object 🖐️	used
+  - Object: 🖐️ used
   - Collection
   - Set
   - Hash table
@@ -128,7 +128,7 @@
   - Immutable state
   - Serialization
   - String parsing
-  - JSON 🖐️	used
+  - JSON: 🖐️ used
   - JSON5
   - YAML
 - Networking
@@ -138,7 +138,7 @@
   - IPv4
   - IPv6
   - NAT
-  - URL 🎓	known
+  - URL: 🎓 known
   - URN
   - URI
 - Process and tools
@@ -146,7 +146,7 @@
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
-  - Linter 👂	heard
+  - Linter: 👂 heard
   - Polyfill
   - Interpreter
   - Linker
@@ -160,12 +160,12 @@
   - Debugger
   - Tracing
   - Garbage collection
-  - Refactoring 🖐️	used
+  - Refactoring: 🖐️ used
   - Code review
   - Exception
   - Unittesting
-  - git 🖐️	used
-  - Github 🖐️	used
+  - git: 🖐️ used
+  - Github: 🖐️ used
   - Docker
   - Kubernetes
   - GCC
@@ -186,14 +186,14 @@
   - Duplicate code
   - Premature optimization
   - Micro-optimization
-  - Nested loops 🖐️	used
+  - Nested loops: 🖐️ used
   - Long method/function/procedure
   - Long inheritance
   - Large class/file
   - Too many parameters
   - Pass-through parameters
   - Accumulate and fire
-  - Use switch/case 🖐️	used
+  - Use switch/case: 🖐️ used
   - Temporary field
   - Handle object as instances and hashes at the same time
   - Use fields instead of arguments
@@ -214,11 +214,11 @@
   - Ring
   - Virtual memory
   - File system
-  - Linux 👂	heard
+  - Linux: 👂 heard
   - Unix
   - BSD
-  - MacOS 🖐️	used
-  - Windows 🖐️	used
+  - MacOS: 🖐️ used
+  - Windows: 🖐️ used
   - Real-time OS
   - Embedded OS
 - Standards
@@ -234,6 +234,6 @@
   - ISO
   - MIME
   - OWASP
-  - UTF-8 👂	heard
+  - UTF-8: 👂 heard
   - W3C
   - ODMG
