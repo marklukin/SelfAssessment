@@ -5,75 +5,75 @@
   - Modeling
   - Subject domain
   - Algorithm
-  - Syntax
+  - Syntax: 🖐️ used
   - Semantics
   - Abstraction
   - Paradigm
   - Programm
   - Programming paradigm
-  - Programming language
+  - Programming language: 🖐️ used
   - Contract
-  - Module
-  - Library
+  - Module: 🖐️ used
+  - Library: 🖐️ used
   - Package
   - Component
-  - Framework
+  - Framework: 👂 heard
   - Platform
   - Source code
   - Object code
   - Machine code
   - Microcode
-  - Software engineering
+  - Software engineering: 👂 heard
   - Decomposition
   - Control flow
   - Data flow
-  - Code reuse
+  - Code reuse: 🖐️ used
   - Defensive programming
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
+  - Value: 🖐️ used
+  - Identifier: 🖐️ used
+  - Variable: 🖐️ used
+  - Constant: 🖐️ used
   - Scalar
-  - Literal
-  - Expression
+  - Literal: 🖐️ used
+  - Expression: 🖐️ used
   - Heap
-  - Function
+  - Function: 🖐️ used
   - Procedure
-  - Method
+  - Method: 🖐️ used
   - Class
   - Prototype
   - Event
   - Type
   - Flag
   - Lexical scope
-  - Code block
-  - Conditions
-  - Loops
-  - Assignment
+  - Code block: 🖐️ used
+  - Conditions: 🖐️ used
+  - Loops: 🖐️ used
+  - Assignment: 🖐️ used
   - Regular expression
   - Interface
   - Namespaces
   - Call stack
-  - Naming conventions
-  - Coding conventions
-  - Camel case
-  - Snake case
-  - Kebab case
+  - Naming conventions: 🖐️ used
+  - Coding conventions: 🖐️ used
+  - Camel case: 🖐️ used
+  - Snake case: 🖐️ used
+  - Kebab case: 🎓 known
   - Trailing commas
-  - Return early
+  - Return early: 🖐️ used
   - Fail-fast
 - Types
-  - Primitive types
+  - Primitive types: 🖐️ used
   - Reference types
   - Type systems
   - Strong typing
   - Weak typing
   - Duck typing
   - Static typing
-  - Dynamic typing
+  - Dynamic typing: 👂 heard
   - Nominal typing
   - Structural typing
   - Explicit typing
@@ -81,19 +81,19 @@
   - Covariance
   - Contravariance
 - Functions
-  - Signature
-  - Argument
-  - Parameter
+  - Signature: 🖐️ used
+  - Argument: 🖐️ used
+  - Parameter: 🖐️ used
   - Pure function
   - Lambda expression
   - Side effects
-  - Closure
+  - Closure: 👂 heard
   - Partial application
   - Currying
   - Higher order
-  - Recursion
+  - Recursion: 👂 heard
   - Tail call optimisation
-  - Callback
+  - Callback: 🖐️ used
   - Listener
   - Composition
   - Pipe
@@ -105,12 +105,12 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array
+  - Array: 🖐️ used
   - Structure
   - Record
   - Enum
   - Instance
-  - Object
+  - Object: 🖐️ used
   - Collection
   - Set
   - Hash table
@@ -128,7 +128,7 @@
   - Immutable state
   - Serialization
   - String parsing
-  - JSON
+  - JSON: 🖐️ used
   - JSON5
   - YAML
 - Networking
@@ -138,7 +138,7 @@
   - IPv4
   - IPv6
   - NAT
-  - URL
+  - URL: 🎓 known
   - URN
   - URI
 - Process and tools
@@ -146,7 +146,7 @@
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
-  - Linter
+  - Linter: 👂 heard
   - Polyfill
   - Interpreter
   - Linker
@@ -160,12 +160,12 @@
   - Debugger
   - Tracing
   - Garbage collection
-  - Refactoring
+  - Refactoring: 🖐️ used
   - Code review
   - Exception
   - Unittesting
-  - git
-  - Github
+  - git: 🖐️ used
+  - Github: 🖐️ used
   - Docker
   - Kubernetes
   - GCC
@@ -186,14 +186,14 @@
   - Duplicate code
   - Premature optimization
   - Micro-optimization
-  - Nested loops
+  - Nested loops: 🖐️ used
   - Long method/function/procedure
   - Long inheritance
   - Large class/file
   - Too many parameters
   - Pass-through parameters
   - Accumulate and fire
-  - Use switch/case
+  - Use switch/case: 🖐️ used
   - Temporary field
   - Handle object as instances and hashes at the same time
   - Use fields instead of arguments
@@ -214,11 +214,11 @@
   - Ring
   - Virtual memory
   - File system
-  - Linux
+  - Linux: 👂 heard
   - Unix
   - BSD
-  - MacOS
-  - Windows
+  - MacOS: 🖐️ used
+  - Windows: 🖐️ used
   - Real-time OS
   - Embedded OS
 - Standards
@@ -234,6 +234,6 @@
   - ISO
   - MIME
   - OWASP
-  - UTF-8
+  - UTF-8: 👂 heard
   - W3C
   - ODMG
