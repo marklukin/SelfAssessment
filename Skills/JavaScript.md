@@ -19,7 +19,7 @@
   - `typeof`: 🖐️ used
   - Destructuring: 🖐️ used
   - Generators
-  - Iterators:
+  - Iterators
   - Async generator
   - Async iterator
   - Chaining: 👂 heard

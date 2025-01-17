@@ -1,13 +1,13 @@
 ## Software engineering self assessment
 
-[![Skills](https://img.shields.io/badge/Self_Assessment-99&nbsp;/&nbsp;335&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/marklukin/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-98&nbsp;/&nbsp;335&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/marklukin/SelfAssessment/blob/main/Profile/REPORT.md)
 
 ```
-[![Skills](https://img.shields.io/badge/Self_Assessment-99&nbsp;/&nbsp;335&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/marklukin/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-98&nbsp;/&nbsp;335&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/marklukin/SelfAssessment/blob/main/Profile/REPORT.md)
 ```
 
 ```
-<a href="https://github.com/marklukin/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-99&nbsp;/&nbsp;335&nbsp;/&nbsp;731-009933?style=flat-square"></a>
+<a href="https://github.com/marklukin/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-98&nbsp;/&nbsp;335&nbsp;/&nbsp;731-009933?style=flat-square"></a>
 ```
 
 ## Assessment totals
@@ -27,7 +27,7 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; Operating systems | `3` | `13` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Standards | `1` | `15` |
 | [JavaScript](/Skills/JavaScript.md) | | |
-| &nbsp;&nbsp;&nbsp;&nbsp; Language | `25` | `57` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Language | `24` | `57` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Statements | `14` | `19` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Functions | `5` | `10` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Data structures | `1` | `8` |
@@ -72,6 +72,7 @@
 | `instanceof` | 🤷 unknown | ⟶  | 🖐️ used |
 | `...spread` | 🤷 unknown | ⟶  | 🖐️ used |
 | Generators | 🤷 unknown | ⟶  | 👂 heard |
+| Iterators | 🤷 unknown | ⟶  | 👂 heard |
 | Async generator | 🤷 unknown | ⟶  | 👂 heard |
 | Async iterator | 🤷 unknown | ⟶  | 👂 heard |
 | Optional chaining | 🤷 unknown | ⟶  | 👂 heard |
@@ -109,7 +110,7 @@
 | V8 | 🤷 unknown | ⟶  | 👂 heard |
 | prettier | 👂 heard | ⟶  | 🎓 known |
 
-Total: you have `31` of `72` skills, `41` to be upgraded, and `6` above needed
+Total: you have `30` of `72` skills, `42` to be upgraded, and `5` above needed
 
 | To start Node.js | actual | ⟶  | required |
 | --- | --- | --- | --- |
@@ -119,6 +120,7 @@ Total: you have `31` of `72` skills, `41` to be upgraded, and `6` above needed
 | `instanceof` | 🤷 unknown | ⟶  | 🖐️ used |
 | `...spread` | 🤷 unknown | ⟶  | 🖐️ used |
 | Generators | 🤷 unknown | ⟶  | 🖐️ used |
+| Iterators | 🤷 unknown | ⟶  | 🖐️ used |
 | Async generator | 🤷 unknown | ⟶  | 🖐️ used |
 | Async iterator | 🤷 unknown | ⟶  | 🖐️ used |
 | Chaining | 👂 heard | ⟶  | 🖐️ used |
@@ -175,7 +177,7 @@ Total: you have `31` of `72` skills, `41` to be upgraded, and `6` above needed
 | npm | 👂 heard | ⟶  | 🎓 known |
 | prettier | 👂 heard | ⟶  | 🎓 known |
 
-Total: you have `37` of `98` skills, `61` to be upgraded, and `3` above needed
+Total: you have `36` of `98` skills, `62` to be upgraded, and `3` above needed
 
 ## [Async](/Skills/Async.md)
 
