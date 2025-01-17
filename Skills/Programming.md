@@ -87,7 +87,7 @@
   - Pure function
   - Lambda expression
   - Side effects
-  - Closure: 🖐️ used
+  - Closure: 👂 heard
   - Partial application
   - Currying
   - Higher order
